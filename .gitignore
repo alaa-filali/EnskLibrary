@@ -1,0 +1,20 @@
+ 
+# Java build files 
+*.class 
+*.jar 
+*.war 
+ECHO is on.
+# IntelliJ/NetBeans/Eclipse project files 
+*.iml 
+.idea/ 
+*.project 
+*.classpath 
+ECHO is on.
+# Logs and temporary files 
+*.log 
+*.tmp 
+ECHO is on.
+# Build directories 
+target/ 
+build/ 
+out/ 
